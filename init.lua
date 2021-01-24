@@ -1,6 +1,9 @@
 local files = {
     "/client.lua",
     "/server.lua",
+    "/on.lua",
+    "/off.lua",
+    "/clients.lua",
 }
 local folders = {}
 local fs = require("filesystem")
