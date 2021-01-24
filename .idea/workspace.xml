@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a16384b0-edc7-483b-a82a-3e5d9c20e103" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients.lua" beforeDir="false" afterPath="$PROJECT_DIR$/clients.lua" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/off.lua" beforeDir="false" afterPath="$PROJECT_DIR$/off.lua" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/on.lua" beforeDir="false" afterPath="$PROJECT_DIR$/on.lua" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.lua" beforeDir="false" afterPath="$PROJECT_DIR$/server.lua" afterDir="false" />
-    </list>
+    <list default="true" id="a16384b0-edc7-483b-a82a-3e5d9c20e103" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +31,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611503216739</updated>
-      <workItem from="1611503218703" duration="11297000" />
+      <workItem from="1611503218703" duration="11674000" />
     </task>
     <servers />
   </component>
