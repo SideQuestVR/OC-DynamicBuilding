@@ -39,8 +39,9 @@ while true do
     for _, client_id in pairs(clients) do
         setPowerValue(i)
         state[client_id] = power_values[i];
+        print("Sending to client: ", client_id, state[client_id][1], state[client_id][2])
         modem.send(client_id,666,serialization.serialize(state))
         i = i + 1
     end
-    os.sleep(1)
+    os.sleep(3)
 end

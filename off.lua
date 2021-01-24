@@ -1,1 +1,1 @@
-on -off
+os.execute("on -off")
