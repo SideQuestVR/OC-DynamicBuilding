@@ -1,4 +1,5 @@
 local serialization = require('serialization');
+local component = require('component')
 local modem = component.modem
 local clients = require('clients');
 local shell = require("shell")
