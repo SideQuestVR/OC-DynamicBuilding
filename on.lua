@@ -15,5 +15,5 @@ end
 for _, client_id in pairs(clients) do
     print("Sending to client: ", client_id, state[client_id][1], state[client_id][2])
     modem.send(client_id,666,serialization.serialize(state))
-    os.sleep(0.2)
+    os.sleep(0.4)
 end
